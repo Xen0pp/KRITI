@@ -118,3 +118,4 @@ We welcome contributions from the community! If you'd like to help us build this
 
 🙏 Acknowledgment
 A special thanks to the countless artisans who dedicate their lives to preserving these incredible traditions. We are building Kriti for you.# KRITI
+# KRITI
