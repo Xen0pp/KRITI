@@ -1,0 +1,107 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "artisan-1",
+      "description": "Portrait of an Indian woman painting in the Madhubani style.",
+      "imageUrl": "https://picsum.photos/seed/indian-woman-painting/200/200",
+      "imageHint": "woman madhubani painter"
+    },
+    {
+      "id": "artisan-2",
+      "description": "A male artisan from Kutch, Gujarat, demonstrating Ajrakh block printing.",
+      "imageUrl": "https://picsum.photos/seed/man-block-printing/200/200",
+      "imageHint": "man block printing"
+    },
+    {
+      "id": "artisan-3",
+      "description": "A Patua scroll painter from West Bengal with his narrative scroll.",
+      "imageUrl": "https://picsum.photos/seed/scroll-painter/200/200",
+      "imageHint": "man scroll painter"
+    },
+    {
+      "id": "artisan-4",
+      "description": "A tribal woman artist from the Bhil community in Madhya Pradesh.",
+      "imageUrl": "https://picsum.photos/seed/tribal-woman/200/200",
+      "imageHint": "tribal woman painter"
+    },
+    {
+      "id": "artisan-5",
+      "description": "A Kashmiri artisan painting a paper mache object.",
+      "imageUrl": "https://picsum.photos/seed/man-painting-box/200/200",
+      "imageHint": "man painting box"
+    },
+    {
+      "id": "product-1",
+      "description": "A vibrant Madhubani painting of the Tree of Life.",
+      "imageUrl": "https://picsum.photos/seed/madhubani-tree/600/600",
+      "imageHint": "madhubani tree life"
+    },
+    {
+      "id": "product-2",
+      "description": "A hand-block printed cotton stole with Ajrakh patterns in natural indigo.",
+      "imageUrl": "https://picsum.photos/seed/indigo-shawl/600/600",
+      "imageHint": "indigo block print"
+    },
+    {
+      "id": "product-3",
+      "description": "A Pattachitra scroll painting showing a scene from the Ramayana.",
+      "imageUrl": "https://picsum.photos/seed/pattachitra-ramayana/600/600",
+      "imageHint": "pattachitra scroll"
+    },
+    {
+      "id": "product-4",
+      "description": "A colorful Bhil painting depicting a festival celebration.",
+      "imageUrl": "https://picsum.photos/seed/bhil-festival/600/600",
+      "imageHint": "bhil art painting"
+    },
+    {
+      "id": "product-5",
+      "description": "An intricately hand-painted Kashmiri paper mache box.",
+      "imageUrl": "https://picsum.photos/seed/kashmiri-box/600/600",
+      "imageHint": "paper mache box"
+    },
+    {
+      "id": "product-6",
+      "description": "A set of four wooden coasters with Madhubani fish motifs.",
+      "imageUrl": "https://picsum.photos/seed/madhubani-fish/600/600",
+      "imageHint": "madhubani coasters"
+    },
+    {
+      "id": "product-7",
+      "description": "A length of maroon-colored Ajrakh hand-block printed cotton fabric.",
+      "imageUrl": "https://picsum.photos/seed/maroon-fabric/600/600",
+      "imageHint": "ajrakh fabric"
+    },
+    {
+      "id": "product-8",
+      "description": "A large canvas art piece showing Bhil village life.",
+      "imageUrl": "https://picsum.photos/seed/bhil-village/600/600",
+      "imageHint": "tribal village art"
+    },
+    {
+      "id": "product-9",
+      "description": "A set of colorful, eco-friendly wooden toys from Channapatna.",
+      "imageUrl": "https://picsum.photos/seed/wooden-toys-india/600/600",
+      "imageHint": "wooden toys"
+    },
+    {
+      "id": "product-10",
+      "description": "A Kalamkari painting depicting a scene from the Mahabharata.",
+      "imageUrl": "https://picsum.photos/seed/kalamkari-mahabharata/600/600",
+      "imageHint": "kalamkari painting"
+    },
+    {
+      "id": "product-11",
+      "description": "A unique Dhokra metal-casted statue of the Nandi bull.",
+      "imageUrl": "https://picsum.photos/seed/dhokra-bull/600/600",
+      "imageHint": "brass statue"
+    },
+    {
+      "id": "product-12",
+      "description": "A set of two hand-painted ceramic mugs in Jaipur Blue Pottery style.",
+      "imageUrl": "https://picsum.photos/seed/blue-pottery-mugs/600/600",
+      "imageHint": "blue pottery mugs"
+    }
+  ]
+}
